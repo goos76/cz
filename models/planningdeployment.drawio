@@ -1,1 +1,55 @@
-<mxfile host="www.draw.io" modified="2020-01-07T13:16:15.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" version="12.5.0" etag="ZfgLsfU2F-o9o0N-0l74" type="github"><diagram id="LGhvxkEIXH_ouTTz3qP6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-07T14:28:36.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="iitPtoD1q3bIsvREA5yU" version="12.5.0" type="github">
+  <diagram id="LGhvxkEIXH_ouTTz3qP6" name="Page-1">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-23" value="James Debiteuren Planning " style="shape=component;align=center;spacingLeft=36;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="490" height="390" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="reQ70Dz-hXJ3FCX67RbV-2" target="reQ70Dz-hXJ3FCX67RbV-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-2" value="Debiteuren&#xa;Planning" style="shape=component;align=left;spacingLeft=36;" vertex="1" parent="1">
+          <mxGeometry x="235" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-9" value="GetPlanningDataProces" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="reQ70Dz-hXJ3FCX67RbV-3" target="reQ70Dz-hXJ3FCX67RbV-25">
+          <mxGeometry x="0.1628" relative="1" as="geometry">
+            <mxPoint x="550" y="430" as="targetPoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-3" value="FlitsPlanning_CIS" style="shape=component;align=left;spacingLeft=36;" vertex="1" parent="1">
+          <mxGeometry x="300" y="405" width="135" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.015;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="reQ70Dz-hXJ3FCX67RbV-4" target="reQ70Dz-hXJ3FCX67RbV-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-4" value="Debiteuren&#xa;Planning_CS" style="shape=component;align=left;spacingLeft=36;" vertex="1" parent="1">
+          <mxGeometry x="80" y="405" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="reQ70Dz-hXJ3FCX67RbV-13" target="reQ70Dz-hXJ3FCX67RbV-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-13" value="Back end logica" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
+          <mxGeometry x="95" y="520" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.125;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="reQ70Dz-hXJ3FCX67RbV-16" target="reQ70Dz-hXJ3FCX67RbV-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-16" value="Front end" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
+          <mxGeometry x="155" y="260" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.563;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="reQ70Dz-hXJ3FCX67RbV-17" target="reQ70Dz-hXJ3FCX67RbV-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-17" value="Integratie met webservice van Flits" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="127" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="reQ70Dz-hXJ3FCX67RbV-25" value="Flits" style="shape=component;align=center;spacingLeft=36;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="150" height="400" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,49 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T08:54:56.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="vghBj5cyTV1UJnezTBH2" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T13:47:21.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="xjYvb6DPCpGhY2y5pEYX" version="13.7.7" type="github">
   <diagram id="38Oz4WgVNgRb9liLJyMj" name="Page-1">
-    <mxGraphModel dx="1422" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BridyrFLj28X1cd7AWPQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BridyrFLj28X1cd7AWPQ-1" target="BridyrFLj28X1cd7AWPQ-2">
+        <mxCell id="BridyrFLj28X1cd7AWPQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BridyrFLj28X1cd7AWPQ-1" target="BridyrFLj28X1cd7AWPQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BridyrFLj28X1cd7AWPQ-18" value="https" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BridyrFLj28X1cd7AWPQ-17">
+        <mxCell id="BridyrFLj28X1cd7AWPQ-18" value="https" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BridyrFLj28X1cd7AWPQ-17" vertex="1" connectable="0">
           <mxGeometry x="-0.1913" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BridyrFLj28X1cd7AWPQ-1" value="debiteurenplanner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BridyrFLj28X1cd7AWPQ-1" value="debiteurenplanner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BridyrFLj28X1cd7AWPQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BridyrFLj28X1cd7AWPQ-2" target="BridyrFLj28X1cd7AWPQ-3">
+        <mxCell id="BridyrFLj28X1cd7AWPQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BridyrFLj28X1cd7AWPQ-2" target="BridyrFLj28X1cd7AWPQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BridyrFLj28X1cd7AWPQ-20" value="https json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BridyrFLj28X1cd7AWPQ-9">
+        <mxCell id="BridyrFLj28X1cd7AWPQ-20" value="https json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BridyrFLj28X1cd7AWPQ-9" vertex="1" connectable="0">
           <mxGeometry x="0.35" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BridyrFLj28X1cd7AWPQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BridyrFLj28X1cd7AWPQ-2" target="BridyrFLj28X1cd7AWPQ-1">
+        <mxCell id="BridyrFLj28X1cd7AWPQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BridyrFLj28X1cd7AWPQ-2" target="BridyrFLj28X1cd7AWPQ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BridyrFLj28X1cd7AWPQ-19" value="https" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BridyrFLj28X1cd7AWPQ-15">
+        <mxCell id="BridyrFLj28X1cd7AWPQ-19" value="https" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BridyrFLj28X1cd7AWPQ-15" vertex="1" connectable="0">
           <mxGeometry x="-0.0396" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BridyrFLj28X1cd7AWPQ-2" value="Debiteurenplanning dashboard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BridyrFLj28X1cd7AWPQ-2" value="Debiteurenplanning dashboard" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BridyrFLj28X1cd7AWPQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BridyrFLj28X1cd7AWPQ-3" target="BridyrFLj28X1cd7AWPQ-2">
+        <mxCell id="BridyrFLj28X1cd7AWPQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BridyrFLj28X1cd7AWPQ-3" target="BridyrFLj28X1cd7AWPQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BridyrFLj28X1cd7AWPQ-21" value="https json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BridyrFLj28X1cd7AWPQ-12">
+        <mxCell id="BridyrFLj28X1cd7AWPQ-21" value="https json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BridyrFLj28X1cd7AWPQ-12" vertex="1" connectable="0">
           <mxGeometry x="0.14" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BridyrFLj28X1cd7AWPQ-3" value="Debiteurenplanning REST API" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsJUE-wAqEGw2DAps0sc-3" value="tcp/ip" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BridyrFLj28X1cd7AWPQ-3" target="hsJUE-wAqEGw2DAps0sc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BridyrFLj28X1cd7AWPQ-3" value="Debiteurenplanning REST API" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hsJUE-wAqEGw2DAps0sc-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.025;exitY=0.367;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="hsJUE-wAqEGw2DAps0sc-1" target="BridyrFLj28X1cd7AWPQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="412" />
+              <mxPoint x="490" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsJUE-wAqEGw2DAps0sc-5" value="tcp/ip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hsJUE-wAqEGw2DAps0sc-4">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsJUE-wAqEGw2DAps0sc-1" value="DB2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

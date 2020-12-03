@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2020-10-08T13:42:49.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="5gRTYZDG8XYl2Liv6m5p" version="13.7.7" type="github">
+  <diagram id="dNXzJIPOGESACYivqCDi" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jYFm1VZeXSGkYs-pAKn3-29" value="OutSystems" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="40" width="540" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jYFm1VZeXSGkYs-pAKn3-30" value="SpringBoot" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="110" y="280" width="540" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="jYFm1VZeXSGkYs-pAKn3-31" value="Database" style="rounded=0;whiteSpace=wrap;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=west;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="470" width="540" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jYFm1VZeXSGkYs-pAKn3-3" value="DB2" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYFm1VZeXSGkYs-pAKn3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jYFm1VZeXSGkYs-pAKn3-2" target="jYFm1VZeXSGkYs-pAKn3-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYFm1VZeXSGkYs-pAKn3-2" value="Debiteurenplanning REST API " style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="260" y="320" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYFm1VZeXSGkYs-pAKn3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jYFm1VZeXSGkYs-pAKn3-1" target="jYFm1VZeXSGkYs-pAKn3-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYFm1VZeXSGkYs-pAKn3-1" value="Debiteurenplanning dashboard Front end" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="250" y="120" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrber7y04P7ReA_VQeQP-1" value="Active Directory" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.active_directory;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="53" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrber7y04P7ReA_VQeQP-2" value="RACF" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.active_directory;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="53" height="46" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T10:21:06.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tOsP0NvaP2OOoh2-6vRx" version="13.4.8" type="github"><diagram id="w-vKkGoruPvOUjnx7c8Q" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-03T10:39:15.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="IrNDstLogTox_bBJpdnN" version="13.4.8" type="github">
+  <diagram id="w-vKkGoruPvOUjnx7c8Q" name="Page-1">
+    <mxGraphModel dx="782" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-98" target="cUMHBHCWQTj6NiD_pBpI-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-98" value="Algemeen klantbeeld Frontend OS" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="655" y="190" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-119" target="cUMHBHCWQTj6NiD_pBpI-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-100" value="DB2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="794" y="870" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-101" value="dw proces" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="300" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-103" target="cUMHBHCWQTj6NiD_pBpI-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-103" value="aanmaken notas api" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="400" y="180" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=10;entryDy=0;entryPerimeter=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-105" target="cUMHBHCWQTj6NiD_pBpI-119" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="723" />
+              <mxPoint x="650" y="713" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-105" value="vorderen" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="360" y="710" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-108" target="cUMHBHCWQTj6NiD_pBpI-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-108" target="cUMHBHCWQTj6NiD_pBpI-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="340" />
+              <mxPoint x="1020" y="525" />
+              <mxPoint x="1060" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-108" value="Algemeen klantbeeld API" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="690" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-110" target="cUMHBHCWQTj6NiD_pBpI-119" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="630" />
+              <mxPoint x="967" y="630" />
+              <mxPoint x="967" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-110" value="betalingsregeling proces" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="480" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.159;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-114" target="cUMHBHCWQTj6NiD_pBpI-119" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="425" />
+              <mxPoint x="660" y="425" />
+              <mxPoint x="660" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.161;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-114" target="cUMHBHCWQTj6NiD_pBpI-115" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="435" />
+              <mxPoint x="309" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.789;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-114" target="cUMHBHCWQTj6NiD_pBpI-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-114" value="aanmaken nota" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="400" y="320" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-115" value="uitbetalen" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="280" y="520" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.294;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-117" target="cUMHBHCWQTj6NiD_pBpI-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-117" value="betalingsregeling api" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="960" y="180" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-118" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="700" y="570" width="310" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-119" value="Debiteuren domain" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="cUMHBHCWQTj6NiD_pBpI-118" vertex="1">
+          <mxGeometry width="310" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-120" value="debiteur" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.object;" parent="cUMHBHCWQTj6NiD_pBpI-118" vertex="1">
+          <mxGeometry x="30" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-121" value="nota" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.object;" parent="cUMHBHCWQTj6NiD_pBpI-118" vertex="1">
+          <mxGeometry x="100" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-122" value="betalingsregeling" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.object;" parent="cUMHBHCWQTj6NiD_pBpI-118" vertex="1">
+          <mxGeometry x="190" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-123" value="Eureka registry" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.registry;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-124" target="cUMHBHCWQTj6NiD_pBpI-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-124" target="cUMHBHCWQTj6NiD_pBpI-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cUMHBHCWQTj6NiD_pBpI-124" target="cUMHBHCWQTj6NiD_pBpI-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-124" value="API GATEWAY" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.registry;" parent="1" vertex="1">
+          <mxGeometry x="740" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUMHBHCWQTj6NiD_pBpI-128" value="" style="endArrow=classic;html=1;" parent="1" target="cUMHBHCWQTj6NiD_pBpI-124" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" as="sourcePoint" />
+            <mxPoint x="780" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2" value="API Gateway voor authenticatie, https, ....." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="30" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LUO_Wmgh21wgtPnX21D9-2" value="EVENT BUS / MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="70" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="LUO_Wmgh21wgtPnX21D9-3" value="Alle services regstreren bij de Registry. &lt;br&gt;Clients krijgen via Ribbon een instantie die ze aanroepen" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="20" width="320" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T10:41:42.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0k3LGirq-8G7SaaFxSp3" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T10:42:56.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Ttyfgj2qGvpAI0fsBXyT" version="13.4.8" type="github">
   <diagram id="w-vKkGoruPvOUjnx7c8Q" name="Page-1">
     <mxGraphModel dx="782" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,8 +139,8 @@
         <mxCell id="LUO_Wmgh21wgtPnX21D9-2" value="EVENT BUS / MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="100" width="70" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="LUO_Wmgh21wgtPnX21D9-3" value="Alle services regstreren bij de Registry. &lt;br&gt;Clients krijgen via Ribbon een instantie die ze aanroepen" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="20" width="320" height="30" as="geometry" />
+        <mxCell id="LUO_Wmgh21wgtPnX21D9-3" value="Alle services regstreren bij de Registry. &lt;br&gt;Clients krijgen via Ribbon een instantie die ze aanroepen&lt;br&gt;Ribon onderhoudt zelf contact met Eureka om te checken &lt;br&gt;of services nog gezond zijn." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="5" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
